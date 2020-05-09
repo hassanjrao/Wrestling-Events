@@ -1,0 +1,598 @@
+body{background:url(../img/BBB.png);
+background-size: cover;
+background-attachment: fixed;
+list-style-type:none;
+}
+
+ul {margin:0;
+padding:0;
+
+
+}
+
+ul li {padding:0;
+	margin:0;
+	float:left;
+width:220px;
+list-style-type: none;
+font-size:30px;
+position:relative;
+left:5%;
+color:white;
+font-family: 'Limelight', cursive;
+top:30px;
+
+}
+
+ul li a{margin:0;
+	padding:0;
+	color: white;
+	word-spacing:20;
+}
+
+
+ul li a:hover{
+	transition:0.5s;
+
+font-size:32px;
+
+
+}
+
+.nav{
+	position: relative;
+transform: translate(-50%,-50%);
+top:11%;
+left:50%;
+margin:0;
+padding:0 20px;
+font-size:6em;
+color:#fff;
+text-shadow: 0 0 32px  #08ff00;}
+
+.nav:after
+{
+position:absolute;
+top:0;
+left:0;
+padding: 0 20px;
+z-index: -1;
+color:#08ff00;
+filter:blur(15px);}
+
+.nav:before
+{content:'';
+position: absolute;
+top:0;
+left:0;
+width:100%;
+height:100%;
+background:#00ff37;
+z-index: -2;
+opacity:.5;
+filter: blur(40px);}
+
+
+.pwalogo img{position:absolute;
+top:10px;
+right:5%;
+height:145px;
+width:145px;}
+
+
+
+.champions p{
+	position: absolute;
+transform: translate(-50%,-50%);
+top:400px;
+left:54%;
+margin:-83px;
+padding:0 20px;
+font-size:60px;
+color:#fff;
+text-shadow: 0 0 20px  #08ff00;
+font-family: 'Limelight', cursive;}
+
+.champions p:after
+{
+position:absolute;
+top:0;
+left:0;
+padding: 0 20px;
+z-index: -1;
+color:#08ff00;
+filter:blur(15px);}
+
+
+}
+.champions p{font-family: 'Limelight', cursive;}
+
+.champions p {padding:0;
+	color:white;
+position:relative;
+font-size: 60px;
+
+font-family: 'Limelight', cursive;
+padding:20px;}
+
+
+.champions p{
+	position: absolute;
+transform: translate(-50%,-50%);
+top:340px;
+left:54%;
+margin:-83px;
+padding:0 20px;
+font-size:60px;
+color:#fff;
+text-shadow: 0 0 20px  #08ff00;
+font-family: 'Limelight', cursive;}
+
+.champions p:after
+{
+position:absolute;
+top:0;
+left:0;
+padding: 0 20px;
+z-index: -1;
+color:#08ff00;
+filter:blur(15px);}
+
+
+}
+
+
+
+
+}
+
+.roster2 p {padding:0;
+	color:white;
+position:relative;
+
+font-family: 'Limelight', cursive;
+padding:20px;}
+
+
+.roster2 p{
+	position: absolute;
+transform: translate(-50%,-50%);
+top:240px;
+left:58%;
+margin:-83px;
+letter-spacing: 73px;
+padding:0 20px;
+font-size:90px;
+color:#fff;
+text-shadow: 0 0 20px  #08ff00;
+font-family: 'Limelight', cursive;}
+
+
+
+
+
+
+
+
+
+
+.ugg  {    left: 4%;
+    top: 350px;
+    width: 296.488px;
+    height: 287px;
+    position: absolute;
+
+
+    padding:0;
+    margin:0;
+
+}
+
+.pwachamp p {padding:0;
+	color:white;
+position:relative;
+
+font-family: 'Limelight', cursive;
+padding:20px;}
+
+
+.pwachamp p{
+	position: absolute;
+transform: translate(-50%,-50%);
+top:650px;
+left:15%;
+margin:0px;
+padding:0 20px;
+font-size:20px;
+color:#fff;
+text-shadow: 0 0 20px  #08ff00;
+font-family: 'Limelight', cursive;}
+
+.shazza {    left: 27%;
+    top: 350px;
+    width: 296.488px;
+    height: 287px;
+    position: absolute;
+float:left;
+}
+
+.pwawomens p {padding:0;
+	color:white;
+position:relative;
+
+font-family: 'Limelight', cursive;
+padding:20px;}
+
+
+.pwawomens p{
+	position: absolute;
+transform: translate(-50%,-50%);
+top:650px;
+left:38.5%;
+margin:0px;
+padding:0 20px;
+font-size:20px;
+color:#fff;
+text-shadow: 0 0 20px  #08ff00;
+font-family: 'Limelight', cursive;}
+
+
+.bonza{    left: 50%;
+    top: 350px;
+    width: 296.488px;
+    height: 287px;
+    position: absolute;
+float:left;
+}
+
+
+
+
+.moretti {left: 73%;
+    top: 350px;
+    width: 296.488px;
+    height: 287px;
+    position: absolute;
+
+padding:0;
+margin:0;
+min-width:80%;}
+
+.tagteam p {padding:0;
+	color:white;
+position:absolute;
+
+font-family: 'Limelight', cursive;
+}
+
+
+.tagteam p{
+	position: absolute;
+transform: translate(-50%,-50%);
+top:633px;
+left:73%;
+
+font-size:23px;
+color:#fff;
+text-shadow: 0 0 20px  #08ff00;
+font-family: 'Limelight', cursive;}
+
+
+.eagles{left: 4%;
+    top: 700px;
+    width: 260px;
+    height:260px;
+    position: absolute;
+
+padding:0;
+margin:0;}
+
+
+.madison{left: 27%;
+    top: 700px;
+    width: 260px;
+    height:260px;
+    position: absolute;
+
+padding:0;
+margin:0;}
+
+.south{left: 50%;
+    top: 700px;
+    width: 260px;
+    height:260px;
+    position: absolute;
+
+padding:0;
+margin:0;}
+
+
+.jordan{left: 73%;
+    top: 700px;
+    width: 260px;
+    height:260px;
+    position: absolute;
+
+padding:0;
+margin:0;}
+
+
+.matt{left: 27%;
+    top: 1000px;
+    width: 260px;
+    height:260px;
+    position: absolute;
+
+padding:0;
+margin:0;}
+
+.matt{left: 4%;
+    top: 1000px;
+    width: 260px;
+    height:260px;
+    position: absolute;
+
+padding:0;
+margin:0;}
+
+.conco{
+    left: 27%;
+    top: 1000px;
+    width: 260px;
+    height:260px;
+    position: absolute;
+
+padding:0;
+margin:0;}
+
+.troy{
+    left: 50%;
+    top: 1000px;
+    width: 260px;
+    height:260px;
+    position: absolute;
+
+padding:0;
+margin:0;}
+
+
+.luci{
+    left: 73%;
+    top: 1000px;
+    width: 260px;
+    height:260px;
+    position: absolute;
+
+padding:0;
+margin:0;}
+
+.fudge{
+    left: 4%;
+    top: 1300px;
+    width: 260px;
+    height:260px;
+    position: absolute;
+
+padding:0;
+margin:0;}
+
+.spencer{
+    left: 27%;
+    top: 1300px;
+    width: 260px;
+    height:260px;
+    position: absolute;
+
+padding:0;
+margin:0;}
+
+.harley{
+    left: 50%;
+    top: 1300px;
+    width: 260px;
+    height:260px;
+    position: absolute;
+
+padding:0;
+margin:0;}
+
+.hoffman{
+    left: 73%;
+    top: 1300px;
+    width: 260px;
+    height:260px;
+    position: absolute;
+
+padding:0;
+margin:0;}
+
+.F a {
+	position: absolute;
+transform: translate(-50%,-50%);
+top:1700px;
+left:38%;
+margin:0;
+padding:0 20px;
+font-size:60px;
+color:#fff;
+text-shadow: 0 0 32px  blue;
+font-family: 'Limelight', cursive;}
+
+.F a:after
+{
+position:absolute;
+padding: 0 20px;
+z-index: -1;
+color:blue;
+filter:blur(15px)
+font-size:30px;
+
+}
+
+.F a:before
+{content:'';
+position: absolute;
+width:100%;
+height:100%;
+background:darkblue;
+z-index: -2;
+opacity:.5;
+filter: blur(40px);
+font-size:30px;}
+
+.F li a:hover{position:absolute;
+	font-size:80px;
+transition:1s;}
+
+
+.Yo a {
+	position: absolute;
+transform: translate(-50%,-50%);
+top:1700px;
+left:44%;
+margin:0;
+padding:0 20px;
+font-size:60px;
+color:#fff;
+text-shadow: 0 0 32px  red;
+font-family: 'Limelight', cursive;}
+
+.Yo a:after
+{
+position:absolute;
+padding: 0 20px;
+z-index: -1;
+color:red;
+filter:blur(15px)
+font-size:30px;
+
+}
+
+.Yo a:before
+{content:'';
+position: absolute;
+width:100%;
+height:100%;
+background:darkred;
+z-index: -2;
+opacity:.5;
+filter: blur(40px);
+font-size:30px;}
+
+.Yo li a:hover{position:absolute;
+	font-size:80px;
+transition:1s;}
+
+.i li a {
+	position: absolute;
+transform: translate(-50%,-50%);
+top:1700px;
+left:50%;
+margin:0;
+padding:0 20px;
+font-size:60px;
+color:#fff;
+text-shadow: 0 0 32px  yellow;
+font-family: 'Limelight', cursive;}
+
+.i li a:after
+{
+position:absolute;
+padding: 0 20px;
+z-index: -1;
+color:yellow;
+filter:blur(15px)
+font-size:30px;
+}
+
+.i li a:before
+{content:'';
+position: absolute;
+width:100%;
+height:100%;
+background:yellow;
+z-index: -2;
+opacity:.5;
+filter: blur(40px);
+font-size:30px;}
+
+.i li a:hover{position:absolute;
+	font-size:80px;
+transition:1s;}
+
+
+.t li a {
+	position: absolute;
+transform: translate(-50%,-50%);
+top:1700px;
+left:55.7%;
+margin:0;
+padding:0 20px;
+font-size:60px;
+color:#fff;
+text-shadow: 0 0 32px  cyan;
+font-family: 'Limelight', cursive;}
+
+.t li a:after
+{
+position:absolute;
+padding: 0 20px;
+z-index: -1;
+color:cyan;
+filter:blur(15px)
+font-size:30px;
+}
+
+.t li a:before
+{content:'';
+position: absolute;
+width:100%;
+height:100%;
+background:cyan;
+z-index: -2;
+opacity:.5;
+filter: blur(40px);
+font-size:30px;}
+
+.t li a:hover{position:absolute;
+	font-size:80px;
+transition:1s;}
+
+
+
+.p li a {
+	position: absolute;
+transform: translate(-50%,-50%);
+top:1700px;
+left:61.5%;
+margin:0;
+padding:0 20px;
+font-size:60px;
+color:#fff;
+text-shadow: 0 0 32px  green;
+font-family: 'Limelight', cursive;}
+
+.p li a:after
+{
+position:absolute;
+padding: 0 20px;
+z-index: -1;
+color:green;
+filter:blur(15px)
+font-size:30px;
+}
+
+.p li a:before
+{content:'';
+position: absolute;
+width:100%;
+height:100%;
+background:darkgreen;
+z-index: -2;
+opacity:.5;
+filter: blur(40px);
+font-size:30px;}
+
+.p li a:hover{position:absolute;
+	font-size:80px;
+transition:1s;}

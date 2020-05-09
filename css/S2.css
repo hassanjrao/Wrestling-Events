@@ -1,0 +1,1207 @@
+body{background:url(../img/BBB.png);
+background-size: cover;
+background-attachment: fixed;
+list-style-type:none;
+overflow-x: hidden;
+}
+
+ul {margin:0;
+padding:0;
+
+
+}
+
+ul li {padding:0;
+	margin:0;
+	float:left;
+width:220px;
+list-style-type: none;
+font-size:30px;
+position:relative;
+left:0%;
+color:white;
+font-family: 'Limelight', cursive;
+top:30px;
+
+}
+
+ul li a{margin:0;
+	padding:0;
+	color: white;
+	word-spacing:20;
+
+}
+
+
+ul li a:hover{
+	transition:0.5s;
+
+font-size:32px;
+
+}
+
+.nav{
+	position: relative;
+transform: translate(-50%,-50%);
+top:11%;
+left:55%;
+margin:0;
+padding:0 20px;
+font-size:6em;
+color:#fff;
+text-shadow: 0 0 32px  #08ff00;
+}
+
+.nav:after
+{
+position:absolute;
+top:0;
+left:0;
+padding: 0 20px;
+z-index: -1;
+color:#08ff00;
+filter:blur(15px);
+}
+
+.nav:before
+{content:'';
+position: absolute;
+top:0;
+left:0;
+width:100%;
+height:100%;
+background:#00ff37;
+z-index: -2;
+opacity:.5;
+filter: blur(40px);
+}
+
+
+.pwalogo img{position:absolute;
+top:10px;
+right:5%;
+height:145px;
+width:145px;}
+
+
+.Shop p{
+	position: absolute;
+transform: translate(-50%,-50%);
+top:200px;
+left:50%;
+margin:0;
+padding:0 20px;
+font-size:70px;
+color:#fff;
+text-shadow: 0 0 32px  green;
+font-family: 'Limelight', cursive;}
+
+.Shop p:after
+{
+position:absolute;
+padding: 0 20px;
+z-index: -1;
+color:green;
+filter:blur(15px)
+font-size:30px;
+}
+
+.Shop p:before
+{content:'';
+position: absolute;
+width:100%;
+height:100%;
+background:darkgreen;
+z-index: -2;
+opacity:.5;
+filter: blur(40px);
+font-size:30px;}
+
+.cart p{
+	position: absolute;
+transform: translate(-50%,-50%);
+top:1700px;
+left:50%;
+margin:0;
+padding:0 20px;
+font-size:70px;
+color:#fff;
+text-shadow: 0 0 32px  green;
+font-family: 'Limelight', cursive;}
+
+.cart p:after
+{
+position:absolute;
+padding: 0 20px;
+z-index: -1;
+color:green;
+filter:blur(15px)
+font-size:30px;
+}
+
+.cart p:before
+{content:'';
+position: absolute;
+width:100%;
+height:100%;
+background:darkgreen;
+z-index: -2;
+opacity:.5;
+filter: blur(40px);
+font-size:30px;}
+
+.B1{}
+
+.B1 select{}
+
+
+.Rob1 img {position:absolute;
+	height:300px;
+	         width:300px;
+				 top:40%;
+			 left:16%;}
+
+
+
+.Rob2 img {position:absolute;
+	height:300px;
+	         width:300px;
+				 top:40%;
+			 left:39.5%;}
+
+			 .robbox3{	position:absolute;
+			 	top:610px;
+			 	left:41%;
+			 transform:translate (-50%, -50%);}
+
+
+			 .robbox3 select{
+			 	background: #26af1a;
+			 	color:white;
+			 	padding:5px;
+			 	width:250px;
+			 	height:27px;
+			 	border:none;
+			 	font-size:12px;
+			 	box-shadow: 0 5px 25px black;
+			 	-webkit-appearance:button;
+			 	outline:none;
+			 }
+
+			 .robbox3:before{
+			 	content:'\f358';
+			 	font-family: "Font Awesome 5 Free";
+			 	position: absolute;
+			 	top:0;
+			 	left:89%;
+			 	width:27px;
+			 	height:27px;
+			 	text-align: center;
+			 	line-height: 150%;
+			 	color:white;
+			 	font-size:18px;
+
+			 	pointer-events:none;
+			 }
+
+			 .robbox3:hover:before
+			 {color:palegreen}
+
+
+			 .robbox4{	position:absolute;
+			 			 	top:650px;
+			 			 	left:41%;
+			 			 transform:translate (-50%, -50%);}
+
+
+			 .robbox4 select{
+			 			 	background: #26af1a;
+			 			 	color:white;
+			 			 	padding:5px;
+			 			 	width:250px;
+			 			 	height:27px;
+			 			 	border:none;
+			 			 	font-size:12px;
+			 			 	box-shadow: 0 5px 25px black;
+			 			 	-webkit-appearance:button;
+			 			 	outline:none;
+			 			 }
+
+			 .robbox4:before{
+			 			 	content:'\f358';
+			 			 	font-family: "Font Awesome 5 Free";
+			 			 	position: absolute;
+			 			 	top:0;
+			 			 	left:89%;
+			 			 	width:27px;
+			 			 	height:27px;
+			 			 	text-align: center;
+			 			 	line-height: 150%;
+			 			 	color:white;
+			 			 	font-size:18px;
+
+			 			 	pointer-events:none;
+			 			 }
+
+			 .robbox4:hover:before
+			 			 {color:palegreen}
+
+			 .Add2 button{
+
+
+			 			 	position: absolute;
+			 			 top:690px;
+			 			 left:47.1%;
+
+			 			 line-height: 150%;
+			 			 	transform:translate (-50%, -50%);
+			 			 }
+
+
+.Shazza2 img {position:absolute;
+	height:300px;
+	         width:300px;
+				 top:40%;
+			 left:62.5%}
+
+
+
+.U1 img {position:absolute;
+	height:300px;
+	         width:300px;
+				 top:95%;
+			 left:16%}
+
+.ME1 img {position:absolute;
+	height:300px;
+	         width:300px;
+				 top:95%;
+			 left:39.5%}
+
+.MW1 img {position:absolute;
+	height:300px;
+	         width:300px;
+				 top:95%;
+			 left:62.5%}
+
+.PWA1 img {position:absolute;
+	height:300px;
+	         width:300px;
+				 top:150%;
+			 left:16%}
+
+.PWA2 img {position:absolute;
+	height:300px;
+	         width:300px;
+				 top:150%;
+			 left:39.5%}
+
+.PWA3 img {position:absolute;
+	height:300px;
+	         width:300px;
+				 top:150%;
+			 left:62.5%}
+
+
+			 .robbox1{	position:absolute;
+			 	top:610px;
+			 	left:17.7%;
+			 transform:translate (-50%, -50%);}
+
+
+			 .robbox1 select{
+			 	background: #26af1a;
+			 	color:white;
+			 	padding:5px;
+			 	width:250px;
+			 	height:27px;
+			 	border:none;
+			 	font-size:12px;
+			 	box-shadow: 0 5px 25px black;
+			 	-webkit-appearance:button;
+			 	outline:none;
+			 }
+
+			 .robbox1:before{
+			 	content:'\f358';
+			 	font-family: "Font Awesome 5 Free";
+			 	position: absolute;
+			 	top:0;
+			 	left:89%;
+			 	width:27px;
+			 	height:27px;
+			 	text-align: center;
+			 	line-height: 150%;
+			 	color:white;
+			 	font-size:18px;
+
+			 	pointer-events:none;
+			 }
+
+			 .robbox1:hover:before
+			 {color:palegreen}
+
+
+			 .robbox2{	position:absolute;
+			 			 	top:650px;
+			 			 	left:17.7%;
+			 			 transform:translate (-50%, -50%);}
+
+
+			 .robbox2 select{
+			 			 	background: #26af1a;
+			 			 	color:white;
+			 			 	padding:5px;
+			 			 	width:250px;
+			 			 	height:27px;
+			 			 	border:none;
+			 			 	font-size:12px;
+			 			 	box-shadow: 0 5px 25px black;
+			 			 	-webkit-appearance:button;
+			 			 	outline:none;
+			 			 }
+
+			 .robbox2:before{
+			 			 	content:'\f358';
+			 			 	font-family: "Font Awesome 5 Free";
+			 			 	position: absolute;
+			 			 	top:0;
+			 			 	left:89%;
+			 			 	width:27px;
+			 			 	height:27px;
+			 			 	text-align: center;
+			 			 	line-height: 150%;
+			 			 	color:white;
+			 			 	font-size:18px;
+
+			 			 	pointer-events:none;
+			 			 }
+
+			 .robbox2:hover:before
+			 			 {color:palegreen}
+
+			 .Add button{
+
+
+			 			 	position: absolute;
+			 			 top:690px;
+			 			 left:23.7%;
+
+			 			 line-height: 150%;
+			 			 	transform:translate (-50%, -50%);
+			 			 }
+
+						 .shazzb{	position:absolute;
+						 			  top:610px;
+						 			  left:64.5%;
+						 			 transform:translate (-50%, -50%);}
+
+
+						 .shazzb select{
+						 			  background: #26af1a;
+						 			  color:white;
+						 			  padding:5px;
+						 			  width:250px;
+						 			  height:27px;
+						 			  border:none;
+						 			  font-size:12px;
+						 			  box-shadow: 0 5px 25px black;
+						 			  -webkit-appearance:button;
+						 			  outline:none;
+						 			 }
+
+						 .shazzb:before{
+						 			  content:'\f358';
+						 			  font-family: "Font Awesome 5 Free";
+						 			  position: absolute;
+						 			  top:0;
+						 			  left:89%;
+						 			  width:27px;
+						 			  height:27px;
+						 			  text-align: center;
+						 			  line-height: 150%;
+						 			  color:white;
+						 			  font-size:18px;
+
+						 			  pointer-events:none;
+						 			 }
+
+						 .shazzb:hover:before
+						 			 {color:palegreen}
+
+
+						 .shazzb2{	position:absolute;
+						 			 			 top:650px;
+						 			 			 left:64.5%;
+						 			 			transform:translate (-50%, -50%);}
+
+
+						 .shazzb2 select{
+						 			 			 background: #26af1a;
+						 			 			 color:white;
+						 			 			 padding:5px;
+						 			 			 width:250px;
+						 			 			 height:27px;
+						 			 			 border:none;
+						 			 			 font-size:12px;
+						 			 			 box-shadow: 0 5px 25px black;
+						 			 			 -webkit-appearance:button;
+						 			 			 outline:none;
+						 			 			}
+
+						 .shazzb2:before{
+						 			 			 content:'\f358';
+						 			 			 font-family: "Font Awesome 5 Free";
+						 			 			 position: absolute;
+						 			 			 top:0;
+						 			 			 left:89%;
+						 			 			 width:27px;
+						 			 			 height:27px;
+						 			 			 text-align: center;
+						 			 			 line-height: 150%;
+						 			 			 color:white;
+						 			 			 font-size:18px;
+
+						 			 			 pointer-events:none;
+						 			 			}
+						 .shazzb2:hover:before
+						 			 			{color:palegreen}
+
+						 .Add3 button{
+
+
+						 			 			 position: absolute;
+						 			 			top:690px;
+						 			 			left:70.55%;
+
+						 			 			line-height: 150%;
+						 			 			 transform:translate (-50%, -50%);
+						 			 			}
+
+
+
+
+												.u1b1{	position:absolute;
+										 		top:1068px;
+										 		left:17.7%;
+										 	 transform:translate (-50%, -50%);}
+
+
+										 	 .u1b1 select{
+										 		background: #26af1a;
+										 		color:white;
+										 		padding:5px;
+										 		width:250px;
+										 		height:27px;
+										 		border:none;
+										 		font-size:12px;
+										 		box-shadow: 0 5px 25px black;
+										 		-webkit-appearance:button;
+										 		outline:none;
+										 	 }
+
+										 	 .u1b1:before{
+										 		content:'\f358';
+										 		font-family: "Font Awesome 5 Free";
+										 		position: absolute;
+										 		top:0;
+										 		left:89%;
+										 		width:27px;
+										 		height:27px;
+										 		text-align: center;
+										 		line-height: 150%;
+										 		color:white;
+										 		font-size:18px;
+
+										 		pointer-events:none;
+										 	 }
+
+										 	 .u1b1:hover:before
+										 	 {color:palegreen}
+
+
+										 	 .u1b2{	position:absolute;
+										 					top:1105px;
+										 					left:17.7%;
+										 				 transform:translate (-50%, -50%);}
+
+
+										 	 .u1b2 select{
+										 					background: #26af1a;
+										 					color:white;
+										 					padding:5px;
+										 					width:250px;
+										 					height:27px;
+										 					border:none;
+										 					font-size:12px;
+										 					box-shadow: 0 5px 25px black;
+										 					-webkit-appearance:button;
+										 					outline:none;
+										 				 }
+
+										 	 .u1b2:before{
+										 					content:'\f358';
+										 					font-family: "Font Awesome 5 Free";
+										 					position: absolute;
+										 					top:0;
+										 					left:89%;
+										 					width:27px;
+										 					height:27px;
+										 					text-align: center;
+										 					line-height: 150%;
+										 					color:white;
+										 					font-size:18px;
+
+										 					pointer-events:none;
+										 				 }
+
+										 	 .u1b2:hover:before
+										 				 {color:palegreen}
+
+										 	 .Add4 button{
+
+
+										 					position: absolute;
+										 				 top:1145px;
+										 				 left:23.7%;
+
+										 				 line-height: 150%;
+										 					transform:translate (-50%, -50%);
+										 				 }
+
+										 				 .meb{	position:absolute;
+										 								top:1068px;
+										 								left:41%;
+										 							 transform:translate (-50%, -50%);}
+
+
+										 				 .meb select{
+										 								background: #26af1a;
+										 								color:white;
+										 								padding:5px;
+										 								width:250px;
+										 								height:27px;
+										 								border:none;
+										 								font-size:12px;
+										 								box-shadow: 0 5px 25px black;
+										 								-webkit-appearance:button;
+										 								outline:none;
+										 							 }
+
+										 				 .meb:before{
+										 								content:'\f358';
+										 								font-family: "Font Awesome 5 Free";
+										 								position: absolute;
+										 								top:0;
+										 								left:89%;
+										 								width:27px;
+										 								height:27px;
+										 								text-align: center;
+										 								line-height: 150%;
+										 								color:white;
+										 								font-size:18px;
+
+										 								pointer-events:none;
+										 							 }
+
+										 				 .meb:hover:before
+										 							 {color:palegreen}
+
+
+										 				 .meb2{	position:absolute;
+										 										 	top:1105px;
+										 										 left:41%;
+										 										transform:translate (-50%, -50%);}
+
+
+										 				 .meb2 select{
+										 										 background: #26af1a;
+										 										 color:white;
+										 										 padding:5px;
+										 										 width:250px;
+										 										 height:27px;
+										 										 border:none;
+										 										 font-size:12px;
+										 										 box-shadow: 0 5px 25px black;
+										 										 -webkit-appearance:button;
+										 										 outline:none;
+										 										}
+
+										 				 .meb2:before{
+										 										 content:'\f358';
+										 										 font-family: "Font Awesome 5 Free";
+										 										 position: absolute;
+										 										 top:0;
+										 										 left:89%;
+										 										 width:27px;
+										 										 height:27px;
+										 										 text-align: center;
+										 										 line-height: 150%;
+										 										 color:white;
+										 										 font-size:18px;
+
+										 										 pointer-events:none;
+										 										}
+										 				 .meb2:hover:before
+										 										{color:palegreen}
+
+										 				 .Add5 button{
+
+
+										 										 position: absolute;
+										 										top:1145px;
+										 										left:47.1%;
+
+										 										line-height: 150%;
+										 										 transform:translate (-50%, -50%);
+										 										}
+
+
+																				.Add6 button{
+
+position: absolute;
+																					top:1145px;
+																					left:70.55%;
+																					line-height: 150%;
+											 										 transform:translate (-50%, -50%);
+}
+.matt1{	position:absolute;
+			 top:1068px;
+			 left:64.5%;
+			transform:translate (-50%, -50%);}
+
+
+.matt1 select{
+			 background: #26af1a;
+			 color:white;
+			 padding:5px;
+			 width:250px;
+			 height:27px;
+			 border:none;
+			 font-size:12px;
+			 box-shadow: 0 5px 25px black;
+			 -webkit-appearance:button;
+			 outline:none;
+			}
+
+.matt1:before{
+			 content:'\f358';
+			 font-family: "Font Awesome 5 Free";
+			 position: absolute;
+			 top:0;
+			 left:89%;
+			 width:27px;
+			 height:27px;
+			 text-align: center;
+			 line-height: 150%;
+			 color:white;
+			 font-size:18px;
+
+			 pointer-events:none;
+			}
+
+.matt1:hover:before
+			{color:palegreen}
+
+
+.matt2{	position:absolute;
+						 top:1105px;
+						left:64.5%;
+					 transform:translate (-50%, -50%);}
+
+
+.matt2 select{
+						background: #26af1a;
+						color:white;
+						padding:5px;
+						width:250px;
+						height:27px;
+						border:none;
+						font-size:12px;
+						box-shadow: 0 5px 25px black;
+						-webkit-appearance:button;
+						outline:none;
+					 }
+
+.matt2:before{
+						content:'\f358';
+						font-family: "Font Awesome 5 Free";
+						position: absolute;
+						top:0;
+						left:89%;
+						width:27px;
+						height:27px;
+						text-align: center;
+						line-height: 150%;
+						color:white;
+						font-size:18px;
+
+						pointer-events:none;
+					 }
+.matt2:hover:before
+					 {color:palegreen}
+
+					 .pwab1{	position:absolute;
+	 				top:1520px;
+	 				left:17.7%;
+	 			 transform:translate (-50%, -50%);}
+
+
+	 			 .pwab1 select{
+	 				background: #26af1a;
+	 				color:white;
+	 				padding:5px;
+	 				width:250px;
+	 				height:27px;
+	 				border:none;
+	 				font-size:12px;
+	 				box-shadow: 0 5px 25px black;
+	 				-webkit-appearance:button;
+	 				outline:none;
+	 			 }
+
+	 			 .pwab1:before{
+	 				content:'\f358';
+	 				font-family: "Font Awesome 5 Free";
+	 				position: absolute;
+	 				top:0;
+	 				left:89%;
+	 				width:27px;
+	 				height:27px;
+	 				text-align: center;
+	 				line-height: 150%;
+	 				color:white;
+	 				font-size:18px;
+
+	 				pointer-events:none;
+	 			 }
+
+	 			 .pwab1:hover:before
+	 			 {color:palegreen}
+
+
+	 			 .pwab11{	position:absolute;
+	 							top:1557px;
+	 							left:17.7%;
+	 						 transform:translate (-50%, -50%);}
+
+
+	 			 .pwab11 select{
+	 							background: #26af1a;
+	 							color:white;
+	 							padding:5px;
+	 							width:250px;
+	 							height:27px;
+	 							border:none;
+	 							font-size:12px;
+	 							box-shadow: 0 5px 25px black;
+	 							-webkit-appearance:button;
+	 							outline:none;
+	 						 }
+
+	 			 .pwab11:before{
+	 							content:'\f358';
+	 							font-family: "Font Awesome 5 Free";
+	 							position: absolute;
+	 							top:0;
+	 							left:89%;
+	 							width:27px;
+	 							height:27px;
+	 							text-align: center;
+	 							line-height: 150%;
+	 							color:white;
+	 							font-size:18px;
+
+	 							pointer-events:none;
+	 						 }
+
+	 			 .pwab11:hover:before
+	 						 {color:palegreen}
+
+	 			 .Add7 button{
+
+
+	 							position: absolute;
+	 						 top:1600px;
+	 						 left:23.7%;
+
+	 						 line-height: 150%;
+	 							transform:translate (-50%, -50%);
+	 						 }
+
+	 						 .pwab2{	position:absolute;
+	 										top:1520px;
+	 										left:41%;
+	 									 transform:translate (-50%, -50%);}
+
+
+	 						 .pwab2 select{
+	 										background: #26af1a;
+	 										color:white;
+	 										padding:5px;
+	 										width:250px;
+	 										height:27px;
+	 										border:none;
+	 										font-size:12px;
+	 										box-shadow: 0 5px 25px black;
+	 										-webkit-appearance:button;
+	 										outline:none;
+	 									 }
+
+	 						 .pwab2:before{
+	 										content:'\f358';
+	 										font-family: "Font Awesome 5 Free";
+	 										position: absolute;
+	 										top:0;
+	 										left:89%;
+	 										width:27px;
+	 										height:27px;
+	 										text-align: center;
+	 										line-height: 150%;
+	 										color:white;
+	 										font-size:18px;
+
+	 										pointer-events:none;
+	 									 }
+
+	 						 .pwab2:hover:before
+	 									 {color:palegreen}
+
+
+	 						 .pwab22{	position:absolute;
+	 													top:1557px;
+	 												 left:41%;
+	 												transform:translate (-50%, -50%);}
+
+
+	 						 .pwab22 select{
+	 												 background: #26af1a;
+	 												 color:white;
+	 												 padding:5px;
+	 												 width:250px;
+	 												 height:27px;
+	 												 border:none;
+	 												 font-size:12px;
+	 												 box-shadow: 0 5px 25px black;
+	 												 -webkit-appearance:button;
+	 												 outline:none;
+	 												}
+
+	 						 .pwab22:before{
+	 												 content:'\f358';
+	 												 font-family: "Font Awesome 5 Free";
+	 												 position: absolute;
+	 												 top:0;
+	 												 left:89%;
+	 												 width:27px;
+	 												 height:27px;
+	 												 text-align: center;
+	 												 line-height: 150%;
+	 												 color:white;
+	 												 font-size:18px;
+
+	 												 pointer-events:none;
+	 												}
+	 						 .pwab22:hover:before
+	 												{color:palegreen}
+
+	 						 .Add8 button{
+
+
+	 												 position: absolute;
+	 												top:1600px;
+	 												left:47.1%;
+
+	 												line-height: 150%;
+	 												 transform:translate (-50%, -50%);
+	 												}
+
+
+	 												.Add9 button{
+
+	 position: absolute;
+	 													top:1600px;
+	 													left:70.55%;
+	 													line-height: 150%;
+	 													 transform:translate (-50%, -50%);
+	 }
+	 .pwab3{	position:absolute;
+	 top:1520px;
+	 left:64.5%;
+	 transform:translate (-50%, -50%);}
+
+
+	 .pwab3 select{
+	 background: #26af1a;
+	 color:white;
+	 padding:5px;
+	 width:250px;
+	 height:27px;
+	 border:none;
+	 font-size:12px;
+	 box-shadow: 0 5px 25px black;
+	 -webkit-appearance:button;
+	 outline:none;
+	 }
+
+	 .pwab3:before{
+	 content:'\f358';
+	 font-family: "Font Awesome 5 Free";
+	 position: absolute;
+	 top:0;
+	 left:89%;
+	 width:27px;
+	 height:27px;
+	 text-align: center;
+	 line-height: 150%;
+	 color:white;
+	 font-size:18px;
+
+	 pointer-events:none;
+	 }
+
+	 .pwab3:hover:before
+	 {color:palegreen}
+
+
+	 .pwab33{	position:absolute;
+	 top:1557px;
+	 left:64.5%;
+	 transform:translate (-50%, -50%);}
+
+
+	 .pwab33 select{
+	 background: #26af1a;
+	 color:white;
+	 padding:5px;
+	 width:250px;
+	 height:27px;
+	 border:none;
+	 font-size:12px;
+	 box-shadow: 0 5px 25px black;
+	 -webkit-appearance:button;
+	 outline:none;
+	 }
+
+	 .pwab33:before{
+	 content:'\f358';
+	 font-family: "Font Awesome 5 Free";
+	 position: absolute;
+	 top:0;
+	 left:89%;
+	 width:27px;
+	 height:27px;
+	 text-align: center;
+	 line-height: 150%;
+	 color:white;
+	 font-size:18px;
+
+	 pointer-events:none;
+	 }
+	 .pwab33:hover:before
+	 {color:palegreen}
+
+	 .F a {
+	 	position: absolute;
+	 transform: translate(-50%,-50%);
+	 top:1700px;
+	 left:38%;
+	 margin:0;
+	 padding:0 20px;
+	 font-size:60px;
+	 color:#fff;
+	 text-shadow: 0 0 32px  blue;
+	 font-family: 'Limelight', cursive;}
+
+	 .F a:after
+	 {
+	 position:absolute;
+	 padding: 0 20px;
+	 z-index: -1;
+	 color:blue;
+	 filter:blur(15px)
+	 font-size:30px;
+
+	 }
+
+	 .F a:before
+	 {content:'';
+	 position: absolute;
+	 width:100%;
+	 height:100%;
+	 background:darkblue;
+	 z-index: -2;
+	 opacity:.5;
+	 filter: blur(40px);
+	 font-size:30px;}
+
+	 .F li a:hover{position:absolute;
+	 	font-size:80px;
+	 transition:1s;}
+
+
+	 .Yo a {
+	 	position: absolute;
+	 transform: translate(-50%,-50%);
+	 top:1700px;
+	 left:44%;
+	 margin:0;
+	 padding:0 20px;
+	 font-size:60px;
+	 color:#fff;
+	 text-shadow: 0 0 32px  red;
+	 font-family: 'Limelight', cursive;}
+
+	 .Yo a:after
+	 {
+	 position:absolute;
+	 padding: 0 20px;
+	 z-index: -1;
+	 color:red;
+	 filter:blur(15px)
+	 font-size:30px;
+
+	 }
+
+	 .Yo a:before
+	 {content:'';
+	 position: absolute;
+	 width:100%;
+	 height:100%;
+	 background:darkred;
+	 z-index: -2;
+	 opacity:.5;
+	 filter: blur(40px);
+	 font-size:30px;}
+
+	 .Yo li a:hover{position:absolute;
+	 	font-size:80px;
+	 transition:1s;}
+
+	 .i li a {
+	 	position: absolute;
+	 transform: translate(-50%,-50%);
+	 top:1700px;
+	 left:50%;
+	 margin:0;
+	 padding:0 20px;
+	 font-size:60px;
+	 color:#fff;
+	 text-shadow: 0 0 32px  yellow;
+	 font-family: 'Limelight', cursive;}
+
+	 .i li a:after
+	 {
+	 position:absolute;
+	 padding: 0 20px;
+	 z-index: -1;
+	 color:yellow;
+	 filter:blur(15px)
+	 font-size:30px;
+	 }
+
+	 .i li a:before
+	 {content:'';
+	 position: absolute;
+	 width:100%;
+	 height:100%;
+	 background:yellow;
+	 z-index: -2;
+	 opacity:.5;
+	 filter: blur(40px);
+	 font-size:30px;}
+
+	 .i li a:hover{position:absolute;
+	 	font-size:80px;
+	 transition:1s;}
+
+
+	 .t li a {
+	 	position: absolute;
+	 transform: translate(-50%,-50%);
+	 top:1700px;
+	 left:55.7%;
+	 margin:0;
+	 padding:0 20px;
+	 font-size:60px;
+	 color:#fff;
+	 text-shadow: 0 0 32px  cyan;
+	 font-family: 'Limelight', cursive;}
+
+	 .t li a:after
+	 {
+	 position:absolute;
+	 padding: 0 20px;
+	 z-index: -1;
+	 color:cyan;
+	 filter:blur(15px)
+	 font-size:30px;
+	 }
+
+	 .t li a:before
+	 {content:'';
+	 position: absolute;
+	 width:100%;
+	 height:100%;
+	 background:cyan;
+	 z-index: -2;
+	 opacity:.5;
+	 filter: blur(40px);
+	 font-size:30px;}
+
+	 .t li a:hover{position:absolute;
+	 	font-size:80px;
+	 transition:1s;}
+
+
+
+	 .p li a {
+	 	position: absolute;
+	 transform: translate(-50%,-50%);
+	 top:1700px;
+	 left:61.5%;
+	 margin:0;
+	 padding:0 20px;
+	 font-size:60px;
+	 color:#fff;
+	 text-shadow: 0 0 32px  green;
+	 font-family: 'Limelight', cursive;}
+
+	 .p li a:after
+	 {
+	 position:absolute;
+	 padding: 0 20px;
+	 z-index: -1;
+	 color:green;
+	 filter:blur(15px)
+	 font-size:30px;
+	 }
+
+	 .p li a:before
+	 {content:'';
+	 position: absolute;
+	 width:100%;
+	 height:100%;
+	 background:darkgreen;
+	 z-index: -2;
+	 opacity:.5;
+	 filter: blur(40px);
+	 font-size:30px;}
+
+	 .p li a:hover{position:absolute;
+	 	font-size:80px;
+	 transition:1s;}
+
+	 .cnames {
+	color:white;
+	position: absolute;
+transform: translate(-50%,-50%);
+top:120%;
+left:50%;
+margin:0;
+padding:0 20px;
+font-size:20px;
+font-family: 'Limelight', cursive;
+}
+
+
